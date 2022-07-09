@@ -1,0 +1,10 @@
+Section: firefox-dummy
+Priority: optional
+Standards-Version: 4.4.1
+
+Package: firefox-dummy
+Version: 0.1
+Maintainer: unicatte
+Provides: firefox, gnome-www-browser, www-browser
+Architecture: all
+Description: Firefox dummy package.
